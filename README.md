@@ -18,3 +18,7 @@ Yeah, Let me state that, I'm totally beginner for this operating system and wind
 ## Screenshots
 
 ![capture1.png](images/capture1.png)
+vim, cmatrix and ufetch via urxvt
+
+![capture2.png](images/capture2.png)
+firefox, w3m via urxvt
