@@ -1,0 +1,21 @@
+fontname "Noto Sans CJK KR DemiLight:pixelsize=13:"
+
+ignore lemonbar
+
+command	firefox	firefox
+command term urxvt
+command scim-setup scim-setup
+
+# Behavior, Look & Feel
+color inactiveborder "#ebdbb2"
+color activeborder "#ebdbb2"
+color font "#ebdbb2"
+color selfont "#282828"
+color menubg "#282828"
+color menufg "#ebdbb2"
+color groupborder "#686868"
+color ungroupborder "#7c7c7c"
+
+borderwidth 		3
+gap			30 10 10 10
+moveamount		20
