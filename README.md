@@ -7,3 +7,5 @@ is stand for OpenBSD Environment (for me)
 ## To-Do
 
 ## Screenshots
+
+![capture1.png](images/capture1.png)
