@@ -20,6 +20,8 @@ Yeah, Let me state that, I'm totally beginner for this operating system and wind
 * Make SCIM does its work
 * Aesthetic Lock Screen
 * How about FVWM...?
+* Display battery status and datetime using Lemonbar or simmilar(, maybe Conky)
+* Clipboard support (xsel)
 
 ## Screenshots
 
