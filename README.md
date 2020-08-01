@@ -10,7 +10,10 @@ Yeah, Let me state that, I'm totally beginner for this operating system and wind
 * Font : Noto Sans CJK KR
 * Wallpaper : https://wallpaperplay.com/walls/full/e/b/6/266523.jpg#.XyUSESlD5s8.link
 
+
+
 * Terminal is transparent!
+* Terminal can display korean flawlessly
 
 ## To-Do
 
@@ -18,8 +21,8 @@ Yeah, Let me state that, I'm totally beginner for this operating system and wind
 
 ## Screenshots
 
+* vim, cmatrix and ufetch via urxvt
 ![capture1.png](images/capture1.png)
-vim, cmatrix and ufetch via urxvt
 
+* firefox, w3m via urxvt
 ![capture2.png](images/capture2.png)
-firefox, w3m via urxvt
