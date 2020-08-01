@@ -13,11 +13,13 @@ Yeah, Let me state that, I'm totally beginner for this operating system and wind
 
 
 * Terminal is transparent!
-* Terminal can display korean flawlessly
+* Terminal can display Korean flawlessly
 
 ## To-Do
 
 * Make SCIM does its work
+* Aesthetic Lock Screen
+* How about FVWM...?
 
 ## Screenshots
 
