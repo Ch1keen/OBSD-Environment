@@ -8,6 +8,7 @@ Yeah, Let me state that, I'm totally beginner for this operating system and wind
 * WM : CWM
 * Terminal : URXvt (rxvt-unicode)
 * Font : Noto Sans CJK KR
+* Wallpaper : https://wallpaperplay.com/walls/full/e/b/6/266523.jpg#.XyUSESlD5s8.link
 
 * Terminal is transparent!
 
